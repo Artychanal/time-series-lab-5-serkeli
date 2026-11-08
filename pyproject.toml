@@ -1,0 +1,9 @@
+[project]
+name = "time-series-5"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Laboratory 5: rolling averages, ARMA, ARIMA and statistical learning"
+dependencies = [
+    "numpy>=2.2,<3", "pandas>=2.2,<3", "scipy>=1.15,<2",
+    "matplotlib>=3.10,<4", "statsmodels>=0.14,<0.15",
+]

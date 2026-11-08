@@ -1,0 +1,18 @@
+Order Details for January 2021,,,,,,,,,
+,,,,,,,,,
+Order ID,Order Date,Shipped Date,Product Name,Category,Region,Unit Price,Quantity,Revenue,Shipping Fee
+1,01/27/15,01/29/15,Beer,Beverages,West,"$14,00",49,"$686,00","$66,54"
+2,01/27/15,01/29/15,Dried Plums,Dried Fruit & Nuts,West,"$3,50",47,"$164,50","$16,61"
+3,01/04/15,01/06/15,Dried Pears,Dried Fruit & Nuts,East,"$30,00",69,"$2 070,00","$198,72"
+4,01/04/15,01/06/15,Dried Apples,Dried Fruit & Nuts,East,"$53,00",89,"$4 717,00","$448,12"
+5,01/04/15,01/06/15,Dried Plums,Dried Fruit & Nuts,East,"$3,50",11,"$38,50","$3,73"
+6,01/12/15,01/14/15,Chai,Beverages,West,"$18,00",81,"$1 458,00","$141,43"
+7,01/12/15,01/14/15,Coffee,Beverages,West,"$46,00",44,"$2 024,00","$198,35"
+8,01/08/15,01/10/15,Chocolate Biscuits Mix,Baked Goods & Mixes,North,"$9,20",38,"$349,60","$36,01"
+9,01/04/15,01/06/15,Chocolate Biscuits Mix,Baked Goods & Mixes,East,"$9,20",88,"$809,60","$79,34"
+10,01/29/15,01/31/15,Chocolate,Candy,West,"$12,75",94,"$1 198,50","$122,25"
+11,01/03/15,01/05/15,Clam Chowder,Soups,West,"$9,65",91,"$878,15","$92,21"
+12,01/06/15,01/08/15,Curry Sauce,Sauces,North,"$40,00",32,"$1 280,00","$133,12"
+13,01/28/15,01/30/15,Coffee,Beverages,South,"$46,00",55,"$2 530,00","$253,00"
+14,01/08/15,01/10/15,Chocolate,Candy,North,"$12,75",47,"$599,25","$61,72"
+15,01/10/15,01/12/15,Green Tea,Beverages,East,"$2,99",90,"$269,10","$27,72"
